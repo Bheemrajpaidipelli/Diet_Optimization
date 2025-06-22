@@ -1,3 +1,5 @@
+# OPTIMIZATION MODEL 
+COMPANY : CODTECH IT SOLUTIONS NAME : PAIDIPELLI BHEEMRAJ INTERN ID : CT06DF372 DOMAIN : DATA SCIENCE DURATION : 6 WEEKS MENTOR : NEELA SANTHOSH KUMAR
 # Problem statement
 Solve a Business problem using optimization techniques such as linear programming with Python libraries like PuLP.
 # Table of Contents 
